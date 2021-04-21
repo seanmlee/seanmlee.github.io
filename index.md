@@ -4,7 +4,7 @@ I am a scientist broadly interested in animal behavior.
 
 In January 2020, I earned my doctorate from George Washington University for my research on maternal sociality and offspring development in wild bonobos and chimpanzees. I am currently continuing this research as a postdoctoral scientist at George Washington University.
 
-In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer population dynamics, movement ecology, and maternal strategies at Brigham Young University.
+In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer population dynamics, space use, and maternal strategies at Brigham Young University.
 
 ---
 
