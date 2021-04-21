@@ -26,25 +26,25 @@ In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer
 
 ## Grants
 
-*2019* Dean’s Graduate Teaching Fellowship *GWU* **$12,500 + tuition**
+*2019* **Dean’s Graduate Teaching Fellowship** *GWU* **$12,500 + tuition**
 
-*2019* Summer Dissertation Fellowship *GWU* **$6,000**
+*2019* **Summer Dissertation Fellowship** *GWU* **$6,000**
 
-*2017* Dissertation Fieldwork Grant *Wenner-Gren Foundation* **$20,000**
+*2017* **Dissertation Fieldwork Grant** *Wenner-Gren Foundation* **$20,000**
 
-*2017* Research Grant *Leakey Foundation* **$15,000**
+*2017* **Research Grant** *Leakey Foundation* **$15,000**
 
-*2017* Grants-in-Aid of Research *Sigma Xi* **$1,000**
+*2017* **Grants-in-Aid of Research** *Sigma Xi* **$1,000**
 
-*2016* Exploration & Field Research Grant *Explorers Club Washington* **$2,000**
+*2016* **Exploration & Field Research Grant** *Explorers Club Washington* **$2,000**
 
-*2016* Cotlow Fund Field Research Award *GWU* **$2,000**
+*2016* **Cotlow Fund Field Research Award** *GWU* **$2,000**
 
-*2016* Shenkman Award *GWU* **$500**
+*2016* **Shenkman Award** *GWU* **$500**
 
-*201*5 William Warren Graduate Fellowship *GWU* **$$900**
+*2015* **William Warren Graduate Fellowship** *GWU* **$$900**
 
-*2009* Summer Abroad Scholarship *Rutgers University* **$5,000**
+*2009* **Summer Abroad Scholarship** *Rutgers University* **$5,000**
 
 ---
 <p style="font-size:11px">
