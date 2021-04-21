@@ -6,7 +6,7 @@ I am a behavioral ecologist currently studying maternal strategies and offspring
 
 ## Publications
 
-*In press* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. *Frontiers in Ecology and Evolution.* <a href="https://doi:10.3389/fevo.2021.629094">doi:10.3389/fevo.2021.629094</a>
+*In press* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. *Frontiers in Ecology and Evolution.* <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.629094/abstract">doi:10.3389/fevo.2021.629094</a>
 
 *2021* **In vivo deciduous dental eruption in LuiKotale bonobos and Gombe chimpanzees.** **Lee**, Sutherland, Fruth, Murray, Lonsdorf, Arbenz-Smith, Augusto, Brogan, Canington, Lee, McGrath, McFarlin, Hohmann. *bioRxiv.* <a href="https://doi.org/10.1101/2021.01.06.425588">doi.org/10.1101/2021.01.06.425588</a>
 
