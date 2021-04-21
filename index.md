@@ -30,8 +30,6 @@ My long-term goal is to apply my training in evolutionary biology and data scien
 
 *2019* **Dean’s Graduate Teaching Fellowship** *GWU* **$12,500 + tuition**
 
-*2019* **Summer Dissertation Fellowship** *GWU* **$6,000**
-
 *2017* **Dissertation Fieldwork Grant** *Wenner-Gren Foundation* **$20,000**
 
 *2017* **Research Grant** *Leakey Foundation* **$15,000**
@@ -41,10 +39,6 @@ My long-term goal is to apply my training in evolutionary biology and data scien
 *2016* **Exploration & Field Research Grant** *Explorers Club Washington* **$2,000**
 
 *2016* **Cotlow Fund Field Research Award** *GWU* **$2,000**
-
-*2016* **Shenkman Award** *GWU* **$500**
-
-*2015* **William Warren Graduate Fellowship** *GWU* **$$900**
 
 *2009* **Summer Abroad Scholarship** *Rutgers University* **$5,000**
 
