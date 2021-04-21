@@ -36,7 +36,7 @@ My long-term goal is to utilize my training in evolutionary biology and data sci
 
 *2017* **Grants-in-Aid of Research** *Sigma Xi* **$1,000**
 
-*2016* **Exploration & Field Research Grant** *Explorers Club Washington* **$2,000**
+*2016* **Exploration & Field Research Grant** *Explorers Club* **$2,000**
 
 *2016* **Cotlow Fund Field Research Award** *GWU* **$2,000**
 
