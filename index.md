@@ -1,6 +1,6 @@
 ## About
 
-I am a behavioral ecologist broadly interested in the evolution of maternal sociality and behavior. 
+I am a scientist broadly interested in animal behavior.
 
 In January 2020, I earned my doctorate from George Washington University for my work on maternal sociality and offspring development in wild bonobos and chimpanzees. I am currently continuing this research as a postdoctoral scientist at George Washington University.
 
