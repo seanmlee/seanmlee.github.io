@@ -16,5 +16,7 @@ I am a behavioral ecologist currently studying maternal strategies and offspring
 
 *2020* **Wild bonobo and chimpanzee females exhibit broadly similar patterns of behavioral maturation but some evidence for divergence.** *American Journal of Physical Anthropology.* **Lee**, Murray, Lonsdorf, Fruth, Stanton, Nichols, Hohmann. <a href="https://doi.org/10.1002/ajpa.23935">doi.org/10.1002/ajpa.23935</a>
 
+*2020* **Female Activity Budgets and Offspring Development in Wild Bonobos and Chimpanzees.** *The George Washington University.* **Lee.** <a href="https://search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true">search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true</a>
+
 ---
 <p style="font-size:11px">
