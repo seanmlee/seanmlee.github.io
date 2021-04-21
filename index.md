@@ -14,7 +14,7 @@ In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer
 
 *2021* **In vivo deciduous dental eruption in LuiKotale bonobos and Gombe chimpanzees.** *bioRxiv.* **Lee**, Sutherland, Fruth, Murray, Lonsdorf, Arbenz-Smith, Augusto, Brogan, Canington, Lee, McGrath, McFarlin, Hohmann. <a href="https://doi.org/10.1101/2021.01.06.425588">doi.org/10.1101/2021.01.06.425588</a>
 
-*2021* **Gregariousness, foraging effort, and affiliative social interactions in lactating bonobos and chimpanzees.** *Behavioral Ecology.* **Lee**, Hohmann, Lonsdorf, Fruth, Murray. <a href="https://doi.org/10.1093/beheco/araa130">doi.org/10.1093/beheco/araa130</a>
+*2021* **Gregariousness, foraging effort, and affiliative interactions in lactating bonobos and chimpanzees.** *Behavioral Ecology.* **Lee**, Hohmann, Lonsdorf, Fruth, Murray. <a href="https://doi.org/10.1093/beheco/araa130">doi.org/10.1093/beheco/araa130</a>
 
 *2020* **Urinary cortisol patterns during ontogeny appear population specific rather than species specific in wild chimpanzees and bonobos.** *Journal of Human Evolution.* Tkaczynski, Behringer, Ackermann, Fedurek, Fruth, Girard-Buttoz, Hobaiter, **Lee**, Löhrich, Preis, Samuni, Zommers, Zuberbühler, Deschner, Wittig, Hohmann, Crockford. <a href="https://doi.org/10.1016/j.jhevol.2020.102869">doi.org/10.1016/j.jhevol.2020.102869</a>
 
