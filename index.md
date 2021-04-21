@@ -1,6 +1,10 @@
 ## About
 
-I am a behavioral ecologist currently studying maternal strategies and offspring development in wild bonobos and chimpanzees.
+I am a behavioral ecologist broadly interested in the evolution of maternal sociality and behavior. 
+
+In January 2020, I earned my doctorate from George Washington University for my work on maternal sociality and offspring development in wild bonobos and chimpanzees. I am currently continuing this research as a postdoctoral scientist at George Washington University.
+
+In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer population dynamics, movement ecology, and maternal strategies at Brigham Young University.
 
 ---
 
