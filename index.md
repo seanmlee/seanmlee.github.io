@@ -6,7 +6,7 @@ In January 2020, I earned my doctorate from George Washington University for my 
 
 In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer population dynamics, space use, and maternal strategies at Brigham Young University.
 
-My overarching goal is to leverage my training in evolutionary theory and Rstats to solve problems in wildlife management and conservation.
+My overarching goal is to apply my training in evolutionary theory and Rstats towards solving problems in wildlife management and conservation.
 
 ---
 
