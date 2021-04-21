@@ -7,8 +7,7 @@ I am a behavioral ecologist currently studying maternal strategies and offspring
 ## Publications
 
 ### In press
-Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species
-
+**Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species** 
 Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann
 
 *Frontiers in Ecology and Evolution*
