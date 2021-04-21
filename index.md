@@ -23,4 +23,28 @@ In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer
 *2020* **Female Activity Budgets and Offspring Development in Wild Bonobos and Chimpanzees.** *The George Washington University.* **Lee.** <a href="https://search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true">search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true</a>
 
 ---
+
+## Grants
+
+*2019* Dean’s Graduate Teaching Fellowship - George Washington University **$12,500 + tuition**$
+
+*2019* Summer Dissertation Fellowship - George Washington University **$6,000**
+
+*2017* Dissertation Fieldwork Grant - Wenner-Gren Foundation **$20,000**
+
+*2017* Research Grant - Leakey Foundation **$15,000**
+
+*2017* Grants-in-Aid of Research - Sigma Xi **$1,000**
+
+*2016* Exploration & Field Research Grant - Explorers Club Washington **$2,000**
+
+*2016* Cotlow Fund Field Research Award - George Washington University **$2,000**
+
+*2016* Shenkman Award - George Washington University **$500**
+
+*201*5 William Warren Graduate Fellowship - George Washington University **$$900**
+
+*2009* Summer Abroad Scholarship - Rutgers University **$5,000**
+
+---
 <p style="font-size:11px">
