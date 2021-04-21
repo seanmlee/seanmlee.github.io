@@ -6,13 +6,13 @@ I am a behavioral ecologist currently studying maternal strategies and offspring
 
 ## Publications
 
-#In press
+# In press
 Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species
 Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann
 *Frontiers in Ecology and Evolution*
 https://doi:10.3389/fevo.2021.629094
 
-#2021
+# 2021
 **In vivo deciduous dental eruption in LuiKotale bonobos and Gombe chimpanzees**
 **Lee**, Sutherland, Fruth, Murray, Lonsdorf, Arbenz-Smith, Augusto, Brogan, Canington, Lee, McGrath, McFarlin, Hohmann
 *bioRxiv* 
@@ -23,7 +23,7 @@ https://doi.org/10.1101/2021.01.06.425588
 *Behavioral Ecology*
 https://doi.org/10.1093/beheco/araa130
 
-#2020
+# 2020
 **Urinary cortisol patterns during ontogeny appear population specific rather than species specific in wild chimpanzees and bonobos**
 Tkaczynski, Behringer, Ackermann, Fedurek, Fruth, Girard-Buttoz, Hobaiter, **Lee**, Löhrich, Preis, Samuni, Zommers, Zuberbühler, Deschner, Wittig, Hohmann, Crockford
 *Journal of Human Evolution*
