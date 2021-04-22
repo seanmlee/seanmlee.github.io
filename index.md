@@ -46,7 +46,7 @@ My long-term goal is to use my training in behavioral ecology and data science t
 
 ## Skills & Experience
 
-I have extensive **field experience** through 40+ months of living/working in tropical rainforest habitats in Central America and East and Central Africa. I am beyond excited to live/work in desert and montane habitats of the US Intermountain West.
+I have accumulated extensive **field experience** through 40+ months of living/working in tropical rainforest habitats in Central America and East and Central Africa. I am beyond excited to live/work in desert and montane habitats of the US Intermountain West.
 
 My **statistical computing** skills include wrangling and tidying decades-long datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am currently focused on incorporating Bayesian inference and information-theoretic approaches into my toolkit.
 
