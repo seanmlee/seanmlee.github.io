@@ -43,4 +43,16 @@ My long-term goal is to use my training in behavioral ecology and data science t
 *2009* **Summer Abroad Scholarship** *Rutgers University* **$5,000**
 
 ---
+
+## Skills & Experience
+
+I have gained expansive wildlife biology field skills after spending over 40 months living and working in tropical habitats in Central America and East and Central Africa. I am beyond excited to live and work in the US Intermountain West and broaden these skills.
+
+My statistical computing skills include tidying decades-long datasets via the tidyverse, data visualization via the grammar of graphics, and mostly frequentist but some Bayesian regression.
+
+I also completed laboratory rotations in primate endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
+
+I regularly engage in science communication and am slowly gaining skills in web development for this purpose.
+
+---
 <p style="font-size:11px">
