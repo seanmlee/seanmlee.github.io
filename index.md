@@ -1,12 +1,12 @@
 ## About
 
-I am a scientist broadly interested in animal behavior, management, and conservation.
+I am a scientist broadly interested in animal behavior.
 
 In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees. I am currently continuing this research as a postdoctoral scientist at George Washington University.
 
 In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer population dynamics, space use, and maternal strategies at Brigham Young University.
 
-My long-term goal is to utilize my training in evolutionary biology and data science to solve problems in wildlife management and conservation.
+My long-term goal is to apply my training in behavioral ecology and data science towards solving problems in wildlife management and conservation.
 
 ---
 
