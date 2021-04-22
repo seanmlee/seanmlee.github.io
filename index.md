@@ -46,11 +46,11 @@ My long-term goal is to use my training in behavioral ecology and data science t
 
 ## Skills & Experience
 
-I have spent 40+ months conducting **fieldwork** in Central America and East and Central Africa. I am beyond excited to extend this experience to include the US Intermountain West.
+I have spent 40+ months conducting **fieldwork** in Central America and East and Central Africa. I am beyond excited to broaden my experience to include the US Intermountain West during my next postdoc.
 
 My **statistical computing** skills include wrangling and tidying decades-long datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am currently focused on incorporating Bayesian inference and information-theoretic approaches into my toolkit.
 
-I completed **laboratory** rotations in primate endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
+I was **lead instructor** for two undergraduate courses in primate behavioral ecology. I also completed **laboratory** rotations in primate endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
 
 Prior to the COVID-19 pandemic, I regularly engaged in local face-to-face **science communication**. Now, I am gaining skills in **web development** to expand my capacity for virtual science communication.
 
