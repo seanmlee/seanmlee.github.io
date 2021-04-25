@@ -46,9 +46,9 @@ My long-term goal is to use my training in behavioral ecology and data science t
 
 ## Skills & Experience
 
-I spent 40+ months conducting **fieldwork** in tropical forests of Central America and East and Central Africa. I am beyond excited to broaden my field experience to include desert and montane habitats of the US Intermountain West during postdoctoral work at BYU.
+I spent 40+ months conducting **fieldwork** in tropical forests of Central America and East and Central Africa. I am beyond excited to broaden my experience to include desert and montane habitats of the US Intermountain West during postdoctoral work at BYU.
 
-My **statistical computing** skills include tidying decades-long datasets, data visualization based on the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am currently incorporating Bayesian inference and information-theoretic approaches into my toolkit.
+My **statistical computing** skills include tidying decades-long datasets, data visualization based on the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am working to incorporate Bayesian inference and information-theoretic approaches into my toolkit.
 
 I was **lead instructor** for two primate behavioral ecology courses at GWU and completed **laboratory** rotations in primate endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
 
