@@ -1,3 +1,8 @@
+
+*Updated December 13, 2021*
+
+---
+
 ## About
 
 I am a scientist broadly interested in animal ecology.
@@ -53,10 +58,6 @@ My **statistical computing** skills include tidying large datasets, data visuali
 I was **lead instructor** for two undergraduate courses at GWU and completed **laboratory** rotations in endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
 
 Prior to the COVID-19 pandemic, I regularly engaged in local face-to-face **science communication**. Now, I am gaining skills in **web development** to expand my capacity for virtual science communication.
-
----
-
-*Updated December 13, 2021*
 
 ---
 <p style="font-size:11px">
