@@ -2,11 +2,11 @@
 
 I am a scientist broadly interested in animal behavior.
 
-In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees, advised by <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology">Dr. Carson Murray</a>. I am currently continuing this research as a postdoctoral scientist at GWU.
+In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees, advised by <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology">Dr. Carson Murray</a>.
 
-In June 2021, I will begin a postdoctoral fellowship on Rocky Mountain mule deer population dynamics, space use, and maternal strategies at Brigham Young University, under the mentorship of <a href="https://pws.byu.edu/wildlife-ecology">Dr. Brock McMillan</a>.
+I am currently employed by the <a href="https://dnr.wisconsin.gov/topic/research/wildliferesearch.html">Wisconsin Department of Natural Resources</a> and work on the deer population modeling research project.
 
-My long-term goal is to use my training in behavioral ecology and data science to solve problems in wildlife management and conservation.
+My goal is to use my training in behavioral ecology and data science to solve problems in wildlife management and conservation.
 
 ---
 
