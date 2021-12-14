@@ -55,4 +55,8 @@ I was **lead instructor** for two undergraduate courses at GWU and completed **l
 Prior to the COVID-19 pandemic, I regularly engaged in local face-to-face **science communication**. Now, I am gaining skills in **web development** to expand my capacity for virtual science communication.
 
 ---
+
+*Updated December 13, 2021*
+
+---
 <p style="font-size:11px">
