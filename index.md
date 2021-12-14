@@ -4,7 +4,7 @@ I am a scientist broadly interested in animal ecology.
 
 In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees, advised by <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology">Dr. Carson Murray</a>.
 
-I am currently a research scientist with the <a href="https://dnr.wisconsin.gov/topic/research/wildliferesearch.html">Wisconsin Department of Natural Resources</a> working on white-tailed deer population modeling.
+I am currently a research scientist with <a href="https://dnr.wisconsin.gov/topic/research/wildliferesearch.html">Wisconsin Department of Natural Resources</a> working on white-tailed deer population modeling.
 
 My goal is to use my training in behavioral ecology and data science to solve problems in wildlife management and conservation.
 
