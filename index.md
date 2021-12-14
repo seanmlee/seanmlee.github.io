@@ -46,11 +46,11 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 ## Skills & Experience
 
-I spent 40+ months conducting **fieldwork** in tropical forests of Central America and East and Central Africa, the US Intermountain West, and the US Midwest.
+I spent 40+ months conducting **fieldwork** in a variety of ecosystems.
 
 My **statistical computing** skills include tidying large datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am working to incorporate Bayesian inference and information-theoretic approaches into my toolkit.
 
-I was **lead instructor** for two primate behavioral ecology courses at GWU and completed **laboratory** rotations in primate endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
+I was **lead instructor** for two undergraduate courses at GWU and completed **laboratory** rotations in endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
 
 Prior to the COVID-19 pandemic, I regularly engaged in local face-to-face **science communication**. Now, I am gaining skills in **web development** to expand my capacity for virtual science communication.
 
