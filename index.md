@@ -48,7 +48,7 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 I spent 40+ months conducting **fieldwork** in a variety of ecosystems.
 
-My **statistical computing** skills include tidying large datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am working to incorporate Bayesian inference and information-theoretic approaches into my toolkit.
+My **statistical computing** skills include tidying large datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am also working to incorporate Bayesian population analysis into my toolkit.
 
 I was **lead instructor** for two undergraduate courses at GWU and completed **laboratory** rotations in endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
 
