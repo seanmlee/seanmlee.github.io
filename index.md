@@ -1,10 +1,10 @@
 ## About
 
-I am a scientist broadly interested in animal behavior.
+I am a scientist broadly interested in wildlife ecology and conservation.
 
 In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees, advised by <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology">Dr. Carson Murray</a>.
 
-I am currently employed by the <a href="https://dnr.wisconsin.gov/topic/research/wildliferesearch.html">Wisconsin Department of Natural Resources</a> and work on the deer population modeling research project.
+I am currently employed by the <a href="https://dnr.wisconsin.gov/topic/research/wildliferesearch.html">Wisconsin Department of Natural Resources</a> and work on white-tailed deer population modeling.
 
 My goal is to use my training in behavioral ecology and data science to solve problems in wildlife management and conservation.
 
@@ -12,17 +12,17 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 ## Publications
 
-*In press* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** *Frontiers in Ecology and Evolution.* Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.629094/abstract">doi:10.3389/fevo.2021.629094</a>
-
-*2021* **In vivo deciduous dental eruption in LuiKotale bonobos and Gombe chimpanzees.** *bioRxiv.* **Lee**, Sutherland, Fruth, Murray, Lonsdorf, Arbenz-Smith, Augusto, Brogan, Canington, Lee, McGrath, McFarlin, Hohmann. <a href="https://doi.org/10.1101/2021.01.06.425588">doi.org/10.1101/2021.01.06.425588</a>
+*2021* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** *Frontiers in Ecology and Evolution.* Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.629094/abstract">doi:10.3389/fevo.2021.629094</a>
 
 *2021* **Gregariousness, foraging effort, and affiliative interactions in lactating bonobos and chimpanzees.** *Behavioral Ecology.* **Lee**, Hohmann, Lonsdorf, Fruth, Murray. <a href="https://doi.org/10.1093/beheco/araa130">doi.org/10.1093/beheco/araa130</a>
 
+*2021* **In vivo deciduous dental eruption in LuiKotale bonobos and Gombe chimpanzees.** *American Journal of Biological Anthropology.* **Lee**, Sutherland, Fruth, Murray, Lonsdorf, Arbenz-Smith, Augusto, Brogan, Canington, Lee, McGrath, McFarlin, Hohmann. <a href="https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24376">doi.org/10.1002/ajpa.24376</a>
+
 *2020* **Urinary cortisol patterns during ontogeny appear population specific rather than species specific in wild chimpanzees and bonobos.** *Journal of Human Evolution.* Tkaczynski, Behringer, Ackermann, Fedurek, Fruth, Girard-Buttoz, Hobaiter, **Lee**, Löhrich, Preis, Samuni, Zommers, Zuberbühler, Deschner, Wittig, Hohmann, Crockford. <a href="https://doi.org/10.1016/j.jhevol.2020.102869">doi.org/10.1016/j.jhevol.2020.102869</a>
 
-*2020* **Wild bonobo and chimpanzee females exhibit broadly similar patterns of behavioral maturation but some evidence for divergence.** *American Journal of Physical Anthropology.* **Lee**, Murray, Lonsdorf, Fruth, Stanton, Nichols, Hohmann. <a href="https://doi.org/10.1002/ajpa.23935">doi.org/10.1002/ajpa.23935</a>
+*2020* **Wild bonobo and chimpanzee females exhibit broadly similar patterns of behavioral maturation but some evidence for divergence.** *American Journal of Biological Anthropology.* **Lee**, Murray, Lonsdorf, Fruth, Stanton, Nichols, Hohmann. <a href="https://doi.org/10.1002/ajpa.23935">doi.org/10.1002/ajpa.23935</a>
 
-*2020* **Female Activity Budgets and Offspring Development in Wild Bonobos and Chimpanzees.** *The George Washington University.* **Lee.** <a href="https://search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true">search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true</a>
+*2020* **Female Activity Budgets and Offspring Development in Wild Bonobos and Chimpanzees.** *George Washington University.* **Lee.** <a href="https://search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true">search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true</a>
 
 ---
 
@@ -46,7 +46,7 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 ## Skills & Experience
 
-I spent 40+ months conducting **fieldwork** in tropical forests of Central America and East and Central Africa. I am beyond excited to broaden my experience to include desert and montane habitats of the US Intermountain West during postdoctoral work at BYU.
+I spent 40+ months conducting **fieldwork** in tropical forests of Central America and East and Central Africa, the US Intermountain West, and the US Midwest.
 
 My **statistical computing** skills include tidying large datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am working to incorporate Bayesian inference and information-theoretic approaches into my toolkit.
 
