@@ -17,6 +17,8 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 ## Publications
 
+*Accepted manuscript* **Drinking frequency in wild lactating chimpanzees (*Pan troglodytes schweinfurthii*) and their offspring.** *American Journal of Primatology.* Nelson, Lonsdorf, Terio, Wellens, **Lee**, Murray.
+
 *2021* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** *Frontiers in Ecology and Evolution.* Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.629094/abstract">doi:10.3389/fevo.2021.629094</a>
 
 *2021* **Gregariousness, foraging effort, and affiliative interactions in lactating bonobos and chimpanzees.** *Behavioral Ecology.* **Lee**, Hohmann, Lonsdorf, Fruth, Murray. <a href="https://doi.org/10.1093/beheco/araa130">doi.org/10.1093/beheco/araa130</a>
