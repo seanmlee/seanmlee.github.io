@@ -1,5 +1,5 @@
 
-*Updated December 21, 2021*
+*Updated December 2021*
 
 ---
 
