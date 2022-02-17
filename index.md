@@ -1,5 +1,5 @@
 
-*Updated December 2021*
+*Updated February 2022*
 
 ---
 
@@ -19,11 +19,13 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 *Accepted manuscript* **Drinking frequency in wild lactating chimpanzees (*Pan troglodytes schweinfurthii*) and their offspring.** *American Journal of Primatology.* Nelson, Lonsdorf, Terio, Wellens, **Lee**, Murray.
 
-*2021* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** *Frontiers in Ecology and Evolution.* Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.629094/abstract">doi:10.3389/fevo.2021.629094</a>
+*2022* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
 
 *2021* **Gregariousness, foraging effort, and affiliative interactions in lactating bonobos and chimpanzees.** *Behavioral Ecology.* **Lee**, Hohmann, Lonsdorf, Fruth, Murray. <a href="https://doi.org/10.1093/beheco/araa130">doi.org/10.1093/beheco/araa130</a>
 
 *2021* **In vivo deciduous dental eruption in LuiKotale bonobos and Gombe chimpanzees.** *American Journal of Biological Anthropology.* **Lee**, Sutherland, Fruth, Murray, Lonsdorf, Arbenz-Smith, Augusto, Brogan, Canington, Lee, McGrath, McFarlin, Hohmann. <a href="https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24376">doi.org/10.1002/ajpa.24376</a>
+
+*2021* **Cell-mediated immune ontogeny is affected by sex but not environmental context in a long-lived primate species.** *Frontiers in Ecology and Evolution.* Behringer, Deimel, Stevens, Kreyer, **Lee**, Hohmann, Fruth, Heistermann. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.629094/abstract">doi:10.3389/fevo.2021.629094</a>
 
 *2020* **Urinary cortisol patterns during ontogeny appear population specific rather than species specific in wild chimpanzees and bonobos.** *Journal of Human Evolution.* Tkaczynski, Behringer, Ackermann, Fedurek, Fruth, Girard-Buttoz, Hobaiter, **Lee**, Löhrich, Preis, Samuni, Zommers, Zuberbühler, Deschner, Wittig, Hohmann, Crockford. <a href="https://doi.org/10.1016/j.jhevol.2020.102869">doi.org/10.1016/j.jhevol.2020.102869</a>
 
