@@ -19,7 +19,7 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 *Accepted manuscript* **Drinking frequency in wild lactating chimpanzees (*Pan troglodytes schweinfurthii*) and their offspring.** *American Journal of Primatology.* Nelson, Lonsdorf, Terio, Wellens, **Lee**, Murray.
 
-*2022* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
+*Preprint* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
 
 *2021* **Gregariousness, foraging effort, and affiliative interactions in lactating bonobos and chimpanzees.** *Behavioral Ecology.* **Lee**, Hohmann, Lonsdorf, Fruth, Murray. <a href="https://doi.org/10.1093/beheco/araa130">doi.org/10.1093/beheco/araa130</a>
 
