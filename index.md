@@ -5,7 +5,7 @@
 
 ## About
 
-I am a scientist broadly interested in animal ecology.
+I am a scientist interested in animal ecology.
 
 In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees, advised by <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology">Dr. Carson Murray</a>.
 
