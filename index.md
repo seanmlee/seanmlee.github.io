@@ -17,7 +17,7 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 
 ## Publications
 
-*Accepted Manuscipt* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Ramos Luna, Twining-Ward, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, JGogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman.  
+*Accepted Manuscript* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Ramos Luna, Twining-Ward, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, JGogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman.  
 
 *Preprint* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
 
