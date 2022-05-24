@@ -9,7 +9,7 @@
 
 *Preprint* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
 
-*2022* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Twining-Ward, Ramos Luna, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, Gogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman.>doi.org/10.1163/14219980-bja10001</a>
+*2022* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Twining-Ward, Ramos Luna, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, Gogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman.">doi.org/10.1163/14219980-bja10001</a>
 
 *2022* **Drinking frequency in wild lactating chimpanzees (*Pan troglodytes schweinfurthii*) and their offspring.** *American Journal of Primatology.* Nelson, Lonsdorf, Terio, Wellens, **Lee**, Murray. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajp.23371">doi.org/10.1002/ajp.23371</a>
 
