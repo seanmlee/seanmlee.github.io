@@ -1,27 +1,15 @@
 
-*Updated March 2022*
-
----
-
-## About
-
-I am a scientist interested in animal ecology.
-
-In January 2020, I earned my doctorate from George Washington University for my research on maternal behavior and offspring development in wild bonobos and chimpanzees, advised by <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology">Dr. Carson Murray</a>.
-
-I am currently a research scientist with the <a href="https://dnr.wisconsin.gov/topic/research/wildliferesearch.html">Wisconsin Department of Natural Resources</a> working on white-tailed deer population modeling.
-
-My goal is to use my training in behavioral ecology and data science to solve problems in wildlife management and conservation.
+*Updated May 2022*
 
 ---
 
 ## Publications
 
-*In press* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Ramos Luna, Twining-Ward, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, Gogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman.
-
-*Accepted* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray.
+*In press* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray.
 
 *Preprint* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
+
+*2022* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Twining-Ward, Ramos Luna, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, Gogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman.>doi.org/10.1163/14219980-bja10001</a>
 
 *2022* **Drinking frequency in wild lactating chimpanzees (*Pan troglodytes schweinfurthii*) and their offspring.** *American Journal of Primatology.* Nelson, Lonsdorf, Terio, Wellens, **Lee**, Murray. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajp.23371">doi.org/10.1002/ajp.23371</a>
 
@@ -54,18 +42,6 @@ My goal is to use my training in behavioral ecology and data science to solve pr
 *2016* **Cotlow Fund Field Research Award** *GWU* **$2,000**
 
 *2009* **Summer Abroad Scholarship** *Rutgers University* **$5,000**
-
----
-
-## Skills & Experience
-
-I spent 40+ months conducting **fieldwork** in a variety of ecosystems.
-
-My **statistical computing** skills include tidying large datasets, data visualization via the grammar of graphics, and frequentist regression guided by null hypothesis significance testing. I am also working to incorporate Bayesian population analysis into my toolkit.
-
-I was **lead instructor** for two undergraduate courses at GWU and completed **laboratory** rotations in endocrinology (at the Max Planck Institute for Evolutionary Anthropology) and geometric morphometrics (at the American Museum of Natural History).
-
-Prior to the COVID-19 pandemic, I regularly engaged in local face-to-face **science communication**. Now, I am gaining skills in **web development** to expand my capacity for virtual science communication.
 
 ---
 <p style="font-size:11px">
