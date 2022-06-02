@@ -5,7 +5,7 @@
 
 ## About
 
-I am a data scientist at <a href="https://kennedyc.com/services/data-and-analytics">KennedyC</a>, an analytics-driven advertising agency based in Madison, Wisconsin. I leverage my background in behavioral biology and computational statistics to improve the way we store, manage, and analyze big data on consumer behavior. I am also an aspiring wild game chef and spend an unreasonable amount of time **attempting** to harvest my own food.
+I am a data scientist at <a href="https://kennedyc.com/services/data-and-analytics">KennedyC</a>, an analytics-driven advertising agency based in Madison, Wisconsin. I leverage my background in behavioral biology and computational statistics to improve the way we store, manage, and analyze big data on consumer behavior. I am also an aspiring wild game chef and spend an unreasonable amount of time *attempting* to harvest my own food.
 
 ---
 
