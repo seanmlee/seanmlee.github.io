@@ -1,5 +1,23 @@
 
-*Updated May 2022*
+*Updated June 2022*
+
+---
+
+## About
+
+I am a data scientist at <a href="https://kennedyc.com/services/data-and-analytics">KennedyC</a>, an analytics-driven advertising agency based in Madison, Wisconsin. I leverage my background in behavioral biology and computational statistics to improve the way we store, manage, and analyze big data on consumer behavior. I am also an aspiring wild game chef and spend an unreasonable amount of time **attempting** to harvest my own food.
+
+---
+
+## Education
+
+*PhD 2020* Human Paleobiology
+Center for the Advanced Study of Human Paleobiology
+George Washington University
+
+*BS 2010* Biological Sciences
+School of Environmental & Biological Sciences
+Rutgers, The State University of New Jersey
 
 ---
 
@@ -24,24 +42,6 @@
 *2020* **Wild bonobo and chimpanzee females exhibit broadly similar patterns of behavioral maturation but some evidence for divergence.** *American Journal of Biological Anthropology.* **Lee**, Murray, Lonsdorf, Fruth, Stanton, Nichols, Hohmann. <a href="https://doi.org/10.1002/ajpa.23935">doi.org/10.1002/ajpa.23935</a>
 
 *2020* **Female Activity Budgets and Offspring Development in Wild Bonobos and Chimpanzees.** *George Washington University.* **Lee.** <a href="https://search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true">search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true</a>
-
----
-
-## Grants
-
-*2019* **Dean’s Graduate Teaching Fellowship** *GWU* **$12,500 + tuition**
-
-*2017* **Dissertation Fieldwork Grant** *Wenner-Gren Foundation* **$20,000**
-
-*2017* **Research Grant** *Leakey Foundation* **$15,000**
-
-*2017* **Grants-in-Aid of Research** *Sigma Xi* **$1,000**
-
-*2016* **Exploration & Field Research Grant** *Explorers Club* **$2,000**
-
-*2016* **Cotlow Fund Field Research Award** *GWU* **$2,000**
-
-*2009* **Summer Abroad Scholarship** *Rutgers University* **$5,000**
 
 ---
 <p style="font-size:11px">
