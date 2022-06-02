@@ -11,12 +11,12 @@ I am a data scientist at <a href="https://kennedyc.com/services/data-and-analyti
 
 ## Education
 
-*2020* **PhD** Human Paleobiology
+*2020* **PhD Human Paleobiology**
 <br>Center for the Advanced Study of Human Paleobiology
 <br>George Washington University
 
 
-*2010* **BS** Biological Sciences
+*2010* **BS Biological Sciences**
 <br>School of Environmental & Biological Sciences
 <br>Rutgers, The State University of New Jersey
 
