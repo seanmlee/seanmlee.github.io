@@ -5,15 +5,15 @@
 
 ## About
 
-I am a data scientist at <a href="https://kennedyc.com/services/data-and-analytics">KennedyC</a>, an analytics-driven advertising agency based in Madison, Wisconsin. I leverage my background in behavioral biology and computational statistics to improve the way we store, manage, and analyze data on consumer decisions. I am also an aspiring wild game chef and spend an unreasonable amount of time *attempting* to harvest my own food.
+I am a data scientist at <a href="https://kennedyc.com/services/data-and-analytics">KennedyC</a>, an analytics-driven advertising agency based in Madison, Wisconsin. I leverage my background in behavioral biology and computational statistics to improve the way we collect, store, and analyze data on consumer decisions. I am also an aspiring wild game chef and spend an unreasonable amount of time *attempting* to harvest my own food.
 
 ---
 
 ## Education
 
 *2020* **PhD Human Paleobiology**
-<br>Center for the Advanced Study of Human Paleobiology
-<br>George Washington University
+<br><a href="https://cashp.columbian.gwu.edu/">Center for the Advanced Study of Human Paleobiology</a>
+<br><a href="https://sebs.rutgers.edu/">George Washington University</a>
 
 
 *2010* **BS Biological Sciences**
@@ -44,5 +44,4 @@ I am a data scientist at <a href="https://kennedyc.com/services/data-and-analyti
 
 *2020* **Female Activity Budgets and Offspring Development in Wild Bonobos and Chimpanzees.** *George Washington University.* **Lee.** <a href="https://search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true">search.proquest.com/docview/2377923044?pq-origsite=gscholar&fromopenview=true</a>
 
----
 <p style="font-size:11px">
