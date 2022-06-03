@@ -13,11 +13,11 @@ I am a data scientist at <a href="https://kennedyc.com/services/data-and-analyti
 
 *2020* **PhD Human Paleobiology**
 <br><a href="https://cashp.columbian.gwu.edu/">Center for the Advanced Study of Human Paleobiology</a>
-<br><a href="https://sebs.rutgers.edu/">George Washington University</a>
+<br>George Washington University
 
 
 *2010* **BS Biological Sciences**
-<br>School of Environmental & Biological Sciences
+<br><a href="https://sebs.rutgers.edu/">School of Environmental & Biological Sciences</a>
 <br>Rutgers, The State University of New Jersey
 
 ---
