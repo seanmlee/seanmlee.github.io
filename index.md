@@ -9,7 +9,7 @@
   gtag('config', 'G-X1L5T0D3FC');
 </script>
 
-*Updated June 2022*
+*Updated July 2022*
 
 ---
 
@@ -34,9 +34,9 @@ I am a data scientist at <a href="https://kennedyc.com/services/data-and-analyti
 
 ## Publications
 
-*In press* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray.
-
 *Preprint* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
+
+*2022* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347222001531">https://doi.org/10.1016/j.anbehav.2022.06.001</a>
 
 *2022* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Twining-Ward, Ramos Luna, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, Gogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman. <a href="https://brill.com/view/journals/ijfp/aop/article-10.1163-14219980-bja10001/article-10.1163-14219980-bja10001.xml">doi.org/10.1163/14219980-bja10001</a>
 
