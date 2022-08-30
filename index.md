@@ -36,7 +36,7 @@ I am a data scientist at <a href="https://kennedyc.com/services/data-and-analyti
 
 *2022* **Transition to siblinghood causes a substantial and long-lasting increase in urinary cortisol levels in wild bonobos.** *eLife.* Behringer, Berghänel, Deschner, **Lee**, Fruth, Hohmann. <a href="https://elifesciences.org/articles/77227">doi.org/10.7554/eLife.77227</a>
 
-*2022* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347222001531">https://doi.org/10.1016/j.anbehav.2022.06.001</a>
+*2022* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347222001531">doi.org/10.1016/j.anbehav.2022.06.001</a>
 
 *2022* **Social media’s potential to promote conservation at the local level: An assessment in eleven primate range countries.** *Folia Primatologica.* Twining-Ward, Ramos Luna, Back, Barakagwira, Bicca-Marques, Chanvin, Diko, Duboscq, Fan, Galán-Acedo, Gogarten, Gou, Guzman-Caro, Hou, Kalbitzer, Kaplin, **Lee**, Mekonnen, Mungongo, Nautiyal, Omeja, Ramananjato, Raoelinjanakolona, Razafindratsima, Sarabian, Sarkar, Serio-Silva, Yanti, Chapman. <a href="https://brill.com/view/journals/ijfp/aop/article-10.1163-14219980-bja10001/article-10.1163-14219980-bja10001.xml">doi.org/10.1163/14219980-bja10001</a>
 
