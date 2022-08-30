@@ -34,7 +34,7 @@ I am a data scientist at <a href="https://kennedyc.com/services/data-and-analyti
 
 ## Publications
 
-*Preprint* **Transition to siblinghood causes substantial and long-lasting physiological stress reactions in wild bonobos.** *bioRxiv.* Behringer, Berghänel, **Lee**, Fruth, Hohmann. <a href="https://www.biorxiv.org/content/10.1101/2022.02.14.480345v1">doi.org/10.1101/2022.02.14.480345</a>
+*2022* **Transition to siblinghood causes a substantial and long-lasting increase in urinary cortisol levels in wild bonobos.** *eLife.* Behringer, Berghänel, Deschner, **Lee**, Fruth, Hohmann. <a href="https://elifesciences.org/articles/77227">doi.org/10.7554/eLife.77227</a>
 
 *2022* **Female Chimpanzee Associations with Male Kin: Trade-offs Between Inbreeding Avoidance and Infanticide Protection.** *Animal Behaviour.* Wellens, **Lee**, Winans, Pusey, Murray. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347222001531">https://doi.org/10.1016/j.anbehav.2022.06.001</a>
 
