@@ -9,7 +9,7 @@
   gtag('config', 'G-X1L5T0D3FC');
 </script>
 
-*Updated July 2022*
+*Updated August 2022*
 
 ---
 
