@@ -9,13 +9,13 @@
   gtag('config', 'G-X1L5T0D3FC');
 </script>
 
-*Updated August 2022*
+*Updated June 2023*
 
 ---
 
 ## About
 
-I am a data scientist at <a href="https://kennedyc.com/services/data-and-analytics">KennedyC</a>, an analytics-driven advertising agency based in Madison, Wisconsin. I leverage my background in behavioral biology and computational statistics to improve the way we collect, store, and analyze data on consumer decisions. I am also an aspiring wild game chef and spend an unreasonable amount of time *attempting* to harvest my own food.
+I am a biostatistician with the <a href="https://clinicalresearch.gwu.edu/leadership">Office of Clinical Research</a> at George Washington University. I am also an aspiring wild game chef and spend an unreasonable amount of time *attempting* to harvest my own food.
 
 ---
 
